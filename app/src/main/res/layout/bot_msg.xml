@@ -19,7 +19,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_margin="10dp"
-            android:src="@drawable/ic_bot" />
+            android:src="@mipmap/ic_launcher_round" />
 
         <!--below widget is for
             displaying message of bot-->
